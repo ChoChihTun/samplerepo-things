@@ -1,2 +1,5 @@
-circle
+oval
+rectangle
 square
+triangle
+hexagon
